@@ -1,4 +1,5 @@
 # Autonomous-Self-Driving
+<img src="https://github.com/TushirSahu/Autonomous-Self-Driving/assets/96677478/3c0d3d3d-61ff-40c1-978a-0183b2e76c1b" alt="Video Preview" width="800" height="550">
 
 ## Description
 This project aims to develop a self-driving car using deep learning techniques. The model is trained to predict steering angles based on input images from the car's cameras, allowing it to navigate autonomously.
